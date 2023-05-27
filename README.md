@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin Sanchez</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchezredwin01&label=Profile%20views&color=0e75b6&style=flat" alt="sanchezredwin01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchezredwin01" alt="sanchezredwin01" /></a> </p>
+<h3 align="center">A passionate backend developer from El Salvador</h3>
 
 - 🔭 I’m currently working on [Ixchel Store](https://github.com/Tuki-Coders/ixchelStore-backend)
 
